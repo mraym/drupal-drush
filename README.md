@@ -1,4 +1,4 @@
-# drupal-heroku-demo 2
+# drupal-heroku-demo 3
 
 A barebones Drupal 8 installation that falls somewhere between the core `minimal` and `standard` installation profiles,
 which can easily be deployed to Heroku.
